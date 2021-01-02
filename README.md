@@ -1,4 +1,4 @@
-### Welcome!
+# Welcome!
 I am a Computer Science student preparing to enter graduate school to earn my masters. I enjoy making my code as fast and secure as possible, and am constantly running experiments to compare different languages, implementations, and algorithms. I have a love for maths and have particularly enjoyed seeing the applications of discrete mathematics in software development.
 
 I have many side projects I am working on at any given point, and enjoy the thrill of learning and developing my skills.
