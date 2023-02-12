@@ -12,7 +12,7 @@ Outside of school, I am currently studying Haskell, malware, and computer securi
       <img style="max-width:100%;" height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=themikeste1&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img style="max-width:100%;" height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themikeste1&layout=compact&theme=gruvbox" />
+      <img style="max-width:100%;" height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themikeste1&hide=Jupyter%20Notebook&layout=compact&theme=gruvbox" />
     </a>
 </div>
 
